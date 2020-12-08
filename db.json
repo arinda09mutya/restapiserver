@@ -71,9 +71,9 @@
                                 "image":"https://i.pinimg.com/564x/9f/94/66/9f9466faa15093e81fe79cae48a39e33.jpg",
                             },
                             {
-                                merek:"BT21 Thermos",
-                                harga:3400000, 
-                                image:"https://i.pinimg.com/564x/e6/81/43/e681433ab201ee27d3dec5bf59041c07.jpg",
+                                "merek":"BT21 Thermos",
+                                "harga":3400000, 
+                                "image":"https://i.pinimg.com/564x/e6/81/43/e681433ab201ee27d3dec5bf59041c07.jpg",
                             }
                
                         ],
