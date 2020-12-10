@@ -1,15 +1,6 @@
 {
 "produk":[
-                            {
-                                "merek": "BT21 Slipper",
-                                "harga":320000,
-                                "image":"https://i.pinimg.com/originals/3b/2a/e0/3b2ae070e28147b326b0be2762d0593e.jpg"
-                            },
-                            {
-                                "merek":"BT21 X Rebook Unisex Shoes",
-                                "harga":1325000,
-                                "image":"https://i.pinimg.com/236x/dd/b8/a7/ddb8a73f9a02386f2fcb0d8e95116b3a.jpg"
-                            },
+                       
                             {
                                 "merek":"Hairband",
                                 "harga":100000,
